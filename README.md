@@ -19,3 +19,8 @@ Our trained machine learning model demonstrated impressive accuracy in classifyi
 Through comprehensive testing, we achieved high precision and recall rates, enabling the identification of fake news with a remarkable level of confidence.
 ## Conclusion 
 Our project contributes to the ongoing efforts in combating fake news by providing an automated system for reliable news detection. By harnessing the power of machine learning and natural language processing, we strive to create a more trustworthy information ecosystem.
+
+
+
+###
+Dataset : https://www.kaggle.com/datasets/vikasukani/news-data-set-fake-news-with-python
