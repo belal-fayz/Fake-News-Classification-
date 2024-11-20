@@ -4,5 +4,3 @@ This dataset provides a collection of labeled news articles with the goal of dis
 Text Content: The body of the news article.
 Labels: Binary classification (FAKE or REAL) indicating the authenticity of the news
 
-
-Dataset : https://www.kaggle.com/datasets/vikasukani/news-data-set-fake-news-with-python
