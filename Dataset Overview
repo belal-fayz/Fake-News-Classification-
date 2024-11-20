@@ -1,0 +1,8 @@
+Dataset Overview
+This dataset provides a collection of labeled news articles with the goal of distinguishing between FAKE and REAL news. It serves as a valuable resource for training and evaluating machine learning models for fake news detection. The data includes:
+
+Text Content: The body of the news article.
+Labels: Binary classification (FAKE or REAL) indicating the authenticity of the news
+
+
+Dataset : https://www.kaggle.com/datasets/vikasukani/news-data-set-fake-news-with-python
